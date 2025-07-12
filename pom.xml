@@ -134,7 +134,7 @@
     <impala.version>3.4.0.7.2.15.0-147</impala.version>
     <openlookeng.version>1.5.0</openlookeng.version>
     <pipeline.version>1</pipeline.version>
-    <presto.version>0.234</presto.version>
+    <presto.version>0.291</presto.version>
     <nebula.version>3.0.0</nebula.version>
     <doris.version>1.2.6</doris.version>
     <repl.version>1</repl.version>
