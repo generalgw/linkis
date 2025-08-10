@@ -27,7 +27,7 @@
   <artifactId>hbase-shims-1.2.0</artifactId>
 
   <properties>
-    <hbase.version>1.2.0</hbase.version>
+    <hbase.version>2.1.0</hbase.version>
   </properties>
 
   <dependencies>
