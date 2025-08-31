@@ -437,7 +437,7 @@
     <dependency>
       <groupId>ch.cern.sparkmeasure</groupId>
       <artifactId>spark-measure_2.12</artifactId>
-      <version>0.24</version>
+      <version>0.26</version>
       <exclusions>
         <exclusion>
           <groupId>org.xerial.snappy</groupId>
