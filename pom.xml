@@ -106,7 +106,7 @@
 
     <zookeeper.version>3.9.2</zookeeper.version>
     <curator.version>4.2.0</curator.version>
-    <hadoop.version>3.3.4</hadoop.version>
+    <hadoop.version>3.4.2</hadoop.version>
     <hadoop-hdfs-client.artifact>hadoop-hdfs-client</hadoop-hdfs-client.artifact>
     <hbase.version>2.5.3</hbase.version>
     <jruby.verison>9.3.4.0</jruby.verison>
@@ -1787,7 +1787,7 @@
     <profile>
       <id>hadoop-2.7</id>
       <properties>
-        <hadoop.version>2.7.2</hadoop.version>
+        <hadoop.version>3.4.2</hadoop.version>
         <curator.version>2.7.1</curator.version>
         <hadoop-hdfs-client.artifact>hadoop-hdfs</hadoop-hdfs-client.artifact>
       </properties>
