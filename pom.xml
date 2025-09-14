@@ -119,7 +119,7 @@
     <spark.hadoop.groupid>org.apache.hadoop</spark.hadoop.groupid>
     <spark.hadoop-common.artifactId>hadoop-common</spark.hadoop-common.artifactId>
     <spark.hadoop-hdfs.artifactId>hadoop-hdfs</spark.hadoop-hdfs.artifactId>
-    <spark.hadoop.version>${hadoop.version}</spark.hadoop.version>
+    <spark.hadoop.version>3.4.2</spark.hadoop.version>
     <spark.hadoop.scope>provided</spark.hadoop.scope>
 
     <storage.parquet.scope>provided</storage.parquet.scope>
@@ -1799,7 +1799,7 @@
         <spark.hadoop.groupid>org.apache.linkis</spark.hadoop.groupid>
         <spark.hadoop-common.artifactId>linkis-hadoop-hdfs-client-shade</spark.hadoop-common.artifactId>
         <spark.hadoop-hdfs.artifactId>linkis-hadoop-hdfs-client-shade</spark.hadoop-hdfs.artifactId>
-        <spark.hadoop.version>${project.version}</spark.hadoop.version>
+        <spark.hadoop.version>3.4.2</spark.hadoop.version>
         <spark.hadoop.scope>compile</spark.hadoop.scope>
         <spark.version>2.4.3</spark.version>
         <scala.version>2.11.12</scala.version>
