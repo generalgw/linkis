@@ -113,7 +113,7 @@
     <jcodings.version>1.0.56</jcodings.version>
     <joni.version>2.1.42</joni.version>
     <hive.version>3.1.3</hive.version>
-    <spark.version>3.2.1</spark.version>
+    <spark.version>3.4.4</spark.version>
     <arrow.version>2.0.0</arrow.version>
     <hadoop-hdfs-client-shade.version>2.7.2</hadoop-hdfs-client-shade.version>
     <spark.hadoop.groupid>org.apache.hadoop</spark.hadoop.groupid>
@@ -1801,7 +1801,7 @@
         <spark.hadoop-hdfs.artifactId>linkis-hadoop-hdfs-client-shade</spark.hadoop-hdfs.artifactId>
         <spark.hadoop.version>${project.version}</spark.hadoop.version>
         <spark.hadoop.scope>compile</spark.hadoop.scope>
-        <spark.version>2.4.3</spark.version>
+        <spark.version>3.4.4</spark.version>
         <scala.version>2.11.12</scala.version>
         <scala.binary.version>2.11</scala.binary.version>
       </properties>
