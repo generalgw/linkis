@@ -28,7 +28,7 @@
         "core-js": "3.27.2",
         "dexie": "3.2.3",
         "dt-sql-parser": "3.0.5",
-        "eslint": "7.21.0",
+        "eslint": "9.0.0",
         "eslint-plugin-vue": "9.6.0",
         "highlight.js": "10.7.0",
         "iview": "3.5.4",
