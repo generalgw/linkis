@@ -108,7 +108,7 @@
     <curator.version>4.2.0</curator.version>
     <hadoop.version>3.3.4</hadoop.version>
     <hadoop-hdfs-client.artifact>hadoop-hdfs-client</hadoop-hdfs-client.artifact>
-    <hbase.version>2.5.3</hbase.version>
+    <hbase.version>2.5.13</hbase.version>
     <jruby.verison>9.3.4.0</jruby.verison>
     <jcodings.version>1.0.56</jcodings.version>
     <joni.version>2.1.42</joni.version>
@@ -1816,7 +1816,7 @@
       </activation>
       <properties>
         <profiles.active>hbase-2.5</profiles.active>
-        <hbase.version>2.5.3</hbase.version>
+        <hbase.version>2.5.13</hbase.version>
       </properties>
     </profile>
 
@@ -1830,7 +1830,7 @@
       </activation>
       <properties>
         <profiles.active>hbase-1.2</profiles.active>
-        <hbase.version>1.2.0</hbase.version>
+        <hbase.version>2.5.13</hbase.version>
       </properties>
     </profile>
 
@@ -1844,7 +1844,7 @@
       </activation>
       <properties>
         <profiles.active>hbase-1.4</profiles.active>
-        <hbase.version>1.4.3</hbase.version>
+        <hbase.version>2.5.13</hbase.version>
       </properties>
     </profile>
 
@@ -1858,7 +1858,7 @@
       </activation>
       <properties>
         <profiles.active>hbase-2.2</profiles.active>
-        <hbase.version>2.2.6</hbase.version>
+        <hbase.version>2.5.13</hbase.version>
       </properties>
     </profile>
     <!-- jacoco: mvn validate -Pjacoco  -->
